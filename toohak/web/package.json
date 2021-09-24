@@ -1,0 +1,24 @@
+{
+  "name": "testweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ssr-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "automerge": "^0.14.2",
+    "express": "^4.17.1",
+    "fuse": "^0.4.0",
+    "next": "^10.0.9",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-native": "^0.64.0",
+    "react-native-uuid": "^1.4.9",
+    "socket.io": "^4.0.0",
+    "socket.io-client": "^4.0.0"
+  }
+}
